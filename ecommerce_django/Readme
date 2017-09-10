@@ -1,0 +1,6 @@
+This is a code copy for the video tutorial on youtube 'https://www.youtube.com/watch?v=9Wbfk16jEOk&t=7532s'.
+
+Create a new file 'local.py' and insert all the content inside local_template.py with proper values. I keep the secret keys in my local.py which is in .gitignore :)
+
+The code is done only upto 2:35:00 hours. I slept after that.
+Do me a favor, fork it and push the remaining :)

@@ -1,0 +1,4 @@
+Django
+django-custom-user
+dj-database-url
+psycopg2

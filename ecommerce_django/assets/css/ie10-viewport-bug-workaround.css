@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<HTML LANG="en">
+<HEAD>
+<META http-equiv="content-type" content="text/html; charset=utf-8">
+<META name="viewport" content="width=device-width, initial-scale=0.8">
+<META name="robots" content="nofollow">
+<LINK rel="stylesheet" type="text/css" href="/style/fresh.css" />
+<link rel="stylesheet" type="text/css" href="/fresh/standard.css" />
+<TITLE>bootstrap-3.3.7.tar.gz: .../ie10-viewport-bug-workaround.css | Fossies</TITLE>
+<META http-equiv="Content-Script-Type" content="text/javascript">
+<script type="text/javascript" src="/scripts/highlight_styles.js"></script>
+</HEAD>
+<BODY>
+<script type="text/javascript" src="/scripts/wz_tooltip.js"></script>
+<script type="text/javascript" src="/scripts/tip_balloon.js"></script>
+<H2><IMG SRC="/warix/forest1.gif" WIDTH="45" HEIGHT="29" ALT=""> "<A HREF="/">Fossies</A>" - the Fresh Open Source Software Archive <IMG SRC="/warix/forest2.gif" WIDTH="48" HEIGHT="30" ALT=""></H2>
+<H3>Member "bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" (25 Jul 2016, 433 Bytes) of package <A HREF="/" TITLE="Fossies homepage">/</A><A HREF="/linux/" TITLE="Listing of all main folders within the Fossies basic folder /linux/">linux</A>/<A HREF="/linux/www/" TITLE="Listing of all packages within the Fossies folder /linux/www/">www</A>/<A HREF="/linux/www/bootstrap-3.3.7.tar.gz/" TITLE="Contents listing, member browsing, download with different compression formats, Doxygen generated source code documentation &amp; more ...">bootstrap-3.3.7.tar.gz</A>:</H3>
+<HR>
+<DIV class="fresh_info">
+As a special service "Fossies" has tried to format the requested source page into HTML format using (guessed) CSS source code syntax highlighting (style: <A HREF="/select_hl_style_lang" style="text-decoration:underline;" onmouseover="Tip(hl_styles, ABOVE, false, OFFSETX, 0, OFFSETY, 5, BALLOON, true, FOLLOWMOUSE, false, WIDTH, 0, DELAY, 0, FADEIN, 0, FADEOUT, 1000, DURATION, 20000, STICKY, 1, CLICKCLOSE, true)" onmouseout="UnTip()" TITLE="About highlight style types">standard</A>) with prefixed line numbers.
+Alternatively you can here <A HREF="/linux/www/bootstrap-3.3.7.tar.gz/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css?m=t">view</A> or <A HREF="/linux/www/bootstrap-3.3.7.tar.gz/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css?m=b" onmouseover="Tip(hl_dl_tip, ABOVE, false, OFFSETX, 0, OFFSETY, -5, BALLOON, true, FOLLOWMOUSE, false, WIDTH, 400, DELAY, 0, FADEIN, 0, FADEOUT, 300, DURATION, 10000, STICKY, 1, CLICKCLOSE, true)" onmouseout="UnTip()" TITLE="By the way: A member file download can also be achieved by clicking within a package contents listing on the according byte size field">download</A> the uninterpreted source code file.
+ See also the latest <span class="fresh_info_amo"><A HREF="/diffs/" TITLE="Fossies source code differences reports (main page)" REL="nofollow">Fossies "Diffs"</A></span> side-by-side code changes report for "ie10-viewport-bug-workaround.css": <A HREF="/diffs/bootstrap/3.3.6_vs_3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css-diff.html" TITLE="&quot;ie10-viewport-bug-workaround.css&quot; file has changes in the current release!" STYLE="white-space: nowrap;"><IMG SRC="/delta_answer_10.png" WIDTH="13" HEIGHT="13"> 3.3.6_vs_3.3.7</A>.
+</DIV>
+<HR>
+<pre class="hl"><span id="l_1" class="hl fld"><span class="hl lin">    1 </span><span class="hl com">/*!</span></span>
+<span id="l_2" class="hl fld"><span class="hl lin">    2 </span><span class="hl com"> * IE10 viewport hack for Surface/desktop Windows 8 bug</span></span>
+<span id="l_3" class="hl fld"><span class="hl lin">    3 </span><span class="hl com"> * Copyright 2014-2015 Twitter, Inc.</span></span>
+<span id="l_4" class="hl fld"><span class="hl lin">    4 </span><span class="hl com"> * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)</span></span>
+<span id="l_5" class="hl fld"><span class="hl lin">    5 </span><span class="hl com"> */</span></span>
+<span id="l_6" class="hl fld"><span class="hl lin">    6 </span></span>
+<span id="l_7" class="hl fld"><span class="hl lin">    7 </span><span class="hl com">/*</span></span>
+<span id="l_8" class="hl fld"><span class="hl lin">    8 </span><span class="hl com"> * See the Getting Started docs for more information:</span></span>
+<span id="l_9" class="hl fld"><span class="hl lin">    9 </span><span class="hl com"> * http://getbootstrap.com/getting-started/#support-ie10-width</span></span>
+<span id="l_10" class="hl fld"><span class="hl lin">   10 </span><span class="hl com"> */</span></span>
+<span id="l_11" class="hl fld"><span class="hl lin">   11 </span><span class="hl kwb">&#64;-ms-viewport</span>     <span class="hl opt">{</span> <span class="hl kwa">width</span><span class="hl opt">:</span> device-width<span class="hl opt">; }</span></span>
+<span id="l_12" class="hl fld"><span class="hl lin">   12 </span><span class="hl kwb">&#64;-o-viewport</span>      <span class="hl opt">{</span> <span class="hl kwa">width</span><span class="hl opt">:</span> device-width<span class="hl opt">; }</span></span>
+<span id="l_13" class="hl fld"><span class="hl lin">   13 </span><span class="hl kwb">&#64;viewport</span>         <span class="hl opt">{</span> <span class="hl kwa">width</span><span class="hl opt">:</span> device-width<span class="hl opt">; }</span></span>
+</pre></BODY></HTML><!--HTML generated by highlight, http://www.andre-simon.de/-->
